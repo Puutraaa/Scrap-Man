@@ -21,9 +21,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 ## installing
 
 #### The Easy Way
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Puutraaa/Scrap-Man)
 
 #### The Legacy Way
 
